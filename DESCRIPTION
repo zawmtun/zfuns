@@ -1,0 +1,21 @@
+Package: zfuns
+Title: Miscellaneous functions
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Zaw Myo",
+           family = "Tun",
+           role = c("aut", "cre"),
+           email = "zawmyotun11@gmail.com",
+           comment = c(ORCID = "orcid.org/0000-0002-7035-4600"))
+Description: This is a collection of functions useful in my data analysis workflow.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Suggests: 
+    testthat
+Imports: 
+    ggplot2
+URL: https://github.com/zawmtun/zfuns
+BugReports: https://github.com/zawmtun/zfuns/issues
